@@ -10,9 +10,12 @@
 - 💻 I'm currently interning at NASA 🚀 and mentored with Apple 👨‍💻.
 - 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
 ------
- <p align="center"><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
-<p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" width="40"/>
- | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" width="50"/> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" align="center" width="40"/> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" align="center" width="70"/> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="center" width="60"/> </p>
+<p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
+<p><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" width="40"/>
+ | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" width="50"/> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" align="center" width="40"/> 
+ | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" align="center" width="70"/> 
+ | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> |
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="center" width="60"/> </p>
 
 <p align="center">|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:| </p>
 
