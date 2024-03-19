@@ -16,7 +16,7 @@
   | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" align="center" width="40"/>
  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" width="50"/>
 | <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" align="center" width="60"/>
-| <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" align="center" width="60"/>
+| <img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" align="center" width="60"/>
  | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" align="center" width="60"/> 
  | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> 
  </p>
