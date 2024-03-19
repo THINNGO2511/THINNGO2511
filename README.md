@@ -7,8 +7,7 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'm currently interning at NASA ![image](https://github.com/THINNGO2511/THINNGO2511/assets/55904076/d44da4d1-e75f-484b-8960-f71edc1b4a1e)
-and mentored with Apple.
+- 💻 I'm currently interning at NASA 🚀 and mentored with Apple 👨‍💻.
 - 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
 ------
  <p align="center"><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
