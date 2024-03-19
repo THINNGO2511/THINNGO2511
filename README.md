@@ -48,7 +48,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thinngo2511&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinngo2511&theme=tokyonight)
 - _Streak Stats_
 
