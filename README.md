@@ -16,22 +16,10 @@
  | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" align="center" width="70"/> 
  | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> |
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="center" width="60"/> </p>
-
-<p>
-
- 
-</p>
-
-
+------
 <hr>
-<p align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
+<p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
 
-<section align="center">
- 
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=HuyVoDN&theme=dark&show_icons=true" /> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyVoDN&theme=dark&layout=compact" width="380" />
-  -->
-</section>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thinngo2511&show_icons=true&locale=en&layout=compact" alt="thinngo2511" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thinngo2511&show_icons=true&locale=en" alt="thinngo2511" /></p>
