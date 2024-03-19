@@ -8,7 +8,7 @@
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
 - 💻 I'm currently interning at NASA 🚀 and mentored with Apple 👨‍💻.
-- 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
+- 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
 ------
 <p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 <!-- <p><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> 
