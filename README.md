@@ -46,9 +46,16 @@
 
 - _Most Used Languages_
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinngo2511&theme=tokyonight)
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true" alt="Top Languages" style="max-width: 100%;">
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinngo2511&theme=tokyonight" alt="Repositories Per Language" style="max-width: 100%;">
+    </div>
+</div>
 - _Streak Stats_
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
