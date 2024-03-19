@@ -17,7 +17,10 @@
  | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> |
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="center" width="60"/> </p>
 
-<p align="center">|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:| </p>
+<p>
+
+ 
+</p>
 
 
 <hr>
