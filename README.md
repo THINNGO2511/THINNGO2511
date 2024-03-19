@@ -1,14 +1,14 @@
 <h1 align="center"> Hi, I'm Dinh Thinh Ngo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Dinh;But+some+call+me+Dinh;I" alt="Typing SVG" /></h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Dinh+Thinh+Ngo;But+some+call+me+Dinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
 <!-- Dynamic message svg generated from git.io as found above-->
  <p>I am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
 
-
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m interested in acquiring software development skills and flexibility.
-- 💻 I'm currently looking for an internship or a job opportunity.
-- 📧 Email me through <a href="mailto:huy.businesscontact@gmail.com">huy.businesscontact@gmail.com</a>
+- :seedling: I’m primarily interested in Robotics and AI/ML.
+- 💻 I'm currently interning at NASA and mentored with Apple.
+- 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">Email</a> or <a href="">LinkedIn</a>
 ------
  <p align="center"><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 <p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" width="40"/>
