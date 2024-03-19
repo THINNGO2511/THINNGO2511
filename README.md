@@ -17,9 +17,15 @@
  | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> |
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="center" width="60"/> </p>
 ------
-<hr>
-<p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
+![Minh Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndminhvn&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=thinngo2511&show_icons=true&locale=en" alt="thinngo2511" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thinngo2511&show_icons=true&locale=en&layout=compact" alt="thinngo2511" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511&" alt="thinngo2511" /></p>
+- _Most Used Languages_
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ndminhvn&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndminhvn&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndminhvn&theme=tokyonight)
+- _Streak Stats_
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ndminhvn&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
