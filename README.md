@@ -7,13 +7,14 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'm currently interning at NASA and mentored with Apple.
-- 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">Email</a> or <a href="">LinkedIn</a>
+- 💻 I'm currently interning at NASA ![image](https://github.com/THINNGO2511/THINNGO2511/assets/55904076/d44da4d1-e75f-484b-8960-f71edc1b4a1e)
+and mentored with Apple.
+- 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
 ------
  <p align="center"><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 <p align="center"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" width="40"/>
  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" width="50"/> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" align="center" width="40"/> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" align="center" width="70"/> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" align="center" width="60"/> </p>
-<!--| <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40">  | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> |  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"> | -->
+
 <p align="center">|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:| </p>
 
 
@@ -27,18 +28,3 @@
 
 
 </section>
-
-<!--
-**THINNGO2511/THINNGO2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
