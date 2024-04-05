@@ -50,7 +50,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinngo2511&theme=tokyonight)
 
-- _Streak Stats_
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
