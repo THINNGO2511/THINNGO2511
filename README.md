@@ -10,6 +10,7 @@
 - 💻 I'm currently interning at NASA 🚀.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
 - This summmer, I will be working in Spacecraft Guidance, Navigation & Control (GN&C)🛰️ and Robotics (Canadarm2 & Dextre)🤖
+- Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
 - 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
 ------
 <p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
