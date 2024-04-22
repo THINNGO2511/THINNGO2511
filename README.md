@@ -9,9 +9,9 @@
 - :seedling: I’m primarily interested in Robotics and AI/ML.
 - 💻 I'm currently interning at NASA 🚀.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
-- This summmer, I will be working in Spacecraft Guidance, Navigation & Control (GN&C)🛰️ and Robotics (Canadarm2 & Dextre)🤖
-- Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
+- This summmer, I will be working in Spacecraft Navigation & Guidance System (GN&C)🛰️ and Robotics (Canadarm2&Dextre)🤖
 - 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
+- Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
 ------
 <p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 <!-- <p><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> 
