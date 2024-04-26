@@ -12,8 +12,8 @@
 - This summmer, I will be working in Spacecraft Navigation & Guidance System (GN&C)🛰️ and Robotics (Canadarm2&Dextre)🤖
 ------
 **📧 Contact me**
-- <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
-- <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
+- Email: <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ngothinh/">Link</a>
 - Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
 ------
 <p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
