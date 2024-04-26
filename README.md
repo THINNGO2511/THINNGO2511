@@ -17,7 +17,7 @@
 - Email: <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ngothinh/">Link</a>
 - Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
-------
+<!-- ------
 <p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 
  <div align="center">
@@ -25,7 +25,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
-</div>
+</div>-->
 
 <hr>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
@@ -36,6 +36,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinngo2511&theme=tokyonight)
 
 
