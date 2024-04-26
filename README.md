@@ -33,7 +33,7 @@
 	
 <!--![Dinh Thinh Ngo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinngo2511&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=radical&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/thinngo2511/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=radical&layout=donut&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/thinngo2511/github-readme-stats)
 </div>
 
 
