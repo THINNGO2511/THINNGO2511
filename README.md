@@ -30,4 +30,4 @@
 <hr>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=4&theme=nightowl&layout=donut&hide=makefile,jupyter%20notebook&hide_border=false\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/thinngo2511/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thinngo2511&hide_rank=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=4&theme=nightowl&layout=donut&hide=makefile,jupyter%20notebook&hide_border=false\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/thinngo2511/github-readme-stats) ![thinngo2511's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511&theme=vue-dark&hide_border=false\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
