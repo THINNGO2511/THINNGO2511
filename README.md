@@ -26,7 +26,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
 </div>-->
-------
 <hr>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
 
@@ -34,9 +33,7 @@
 	
 ![Dinh Thinh Ngo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinngo2511&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)]
-
-(https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
