@@ -10,19 +10,11 @@
 - 💻 I'm currently interning at NASA 🚀.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
 - This summmer, I will be working in Spacecraft Navigation & Guidance System (GN&C)🛰️ and Robotics (Canadarm2&Dextre)🤖
+------
 - 📧 Contact me through <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a> or <a href="https://www.linkedin.com/in/ngothinh/">LinkedIn</a>
 - Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
 ------
 <p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
-<!-- <p><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" align="center" width="40"/> 
- | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" width="40"/>
-  | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" align="center" width="40"/>
- | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" width="50"/>
-| <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" align="center" width="60"/>
-| <img src="https://www.vectorlogo.zone/logos/swift/swift-vertical.svg" align="center" width="60"/>
- | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" align="center" width="60"/> 
- | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" align="center" width="60"/> 
- </p> -->
 
  <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
