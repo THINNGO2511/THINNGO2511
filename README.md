@@ -30,6 +30,6 @@
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=9&theme=radical&layout=donut&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/thinngo2511/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient)
 
 
