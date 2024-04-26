@@ -9,7 +9,9 @@
 - :seedling: I’m primarily interested in Robotics and AI/ML.
 - 💻 I'm currently interning at NASA 🚀.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
-- This summmer, I will be working in Spacecraft Navigation & Guidance System (GN&C)🛰️ and Robotics (Canadarm2&Dextre)🤖
+- This summmer, I will be:
+  		- Working in Spacecraft Navigation & Guidance System (GN&C)🛰️ team in CD4
+  		- Intern for CX ISS Robotics team (Canadarm2&Dextre)🤖
 ------
 **📧 Contact me**
 - Email: <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
