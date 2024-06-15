@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Dinh Thinh Ngo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi, I'm Edward Ngo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Dinh+Ngo;But+some+call+me+Thinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
@@ -11,7 +11,7 @@
 - 💻 I'm currently interning at NASA 🚀.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
 - This summmer, I will be:
-	-  Working in Spacecraft Navigation & Guidance System (GN&C)🛰️ team in CD4
+	- Working in Spacecraft Navigation & Guidance System (GN&C)🛰️ team in CD4
   	- Intern for CX ISS Robotics team (Canadarm2 & Dextre)🤖
 ------
 **📧 Contact me**
