@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Edward Ngo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Dinh+Ngo;But+some+call+me+Thinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Edward+;But+some+call+me+Thinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
 <!-- Dynamic message svg generated from git.io as found above-->
  <p>I am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
 
