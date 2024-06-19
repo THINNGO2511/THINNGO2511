@@ -33,5 +33,5 @@
 |-|-| -->
 
 <!--|[![thinngo2511’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinngo2511&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thinngo2511&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|-->
-|[![thinngo2511’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinngo2511&show_icons=true&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thinngo2511&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
+|[![thinngo2511’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinngo2511&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thinngo2511&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
 |-|-|
