@@ -30,7 +30,6 @@
 <hr>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=4&layout=donut&hide=makefile,jupyter%20notebook&hide_border=false)](https://github.com/thinngo2511/github-readme-stats) ![thinngo2511's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)-->
-# GitHub Stats
-|[![sinsukehlab’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinsukehlab&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinsukehlab&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=4&layout=donut&hide=makefile,jupyter%20notebook&hide_border=false)](https://github.com/thinngo2511/github-readme-stats) ![thinngo2511's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)|
+<!--|[![sinsukehlab’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinsukehlab&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinsukehlab&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|-->
 |-|-|
