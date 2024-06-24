@@ -10,28 +10,19 @@
 - :seedling: I’m primarily interested in Robotics and AI/ML.
 - 💻 I'm currently interning at NASA 🚀.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
-- This summmer, I will be:
-	- Working in Spacecraft Navigation & Guidance System (GN&C)🛰️ team in CD4
-  	- Intern for CX ISS Robotics team (Canadarm2 & Dextre)🤖
+- This summmer, I will be working in Spacecraft Trajectory 🛰️ team in CD4
 ------
 **📧 Contact me**
 - Email: <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ngothinh/">Link</a>
 - Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
-<!-- ------
-<p><strong>🛠&nbsp;Languages/Tech Stacks</strong></p>
 
- <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
-</div>-->
+<hr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THINNGO2511&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
+</p>
 <hr>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
-<!-- |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinngo2511&langs_count=4&layout=donut&hide=makefile,jupyter%20notebook&hide_border=false)](https://github.com/thinngo2511/github-readme-stats)|[![thinngo2511's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thinngo2511\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)|
-|-|-| -->
 
-<!--|[![thinngo2511’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinngo2511&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thinngo2511&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|-->
 |[![thinngo2511’s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thinngo2511&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thinngo2511&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)|
 |-|-|
