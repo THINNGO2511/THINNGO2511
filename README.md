@@ -8,10 +8,10 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'm currently interning at NASA 🚀.
+- 💻 I'm currently interning at NASA 🚀 Johnson Space Center.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
-- This summmer, I will be working in Spacecraft Trajectory 🛰️ team in CD4
-- And I will be developing a new Large Language Model for Jacobs at NASA this Fall!
+- This Fall semester, I will be developing a new On-device LLM for NASA Hazard Engineering Team.
+
 ------
 **📧 Contact me**
 - Email: <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
