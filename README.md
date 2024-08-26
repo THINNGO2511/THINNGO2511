@@ -1,8 +1,5 @@
 <h1 align="center"> Hi, I'm Edward Ngo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
-</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Edward+;But+some+call+me+Thinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
 <!-- Dynamic message svg generated from git.io as found above-->
@@ -14,6 +11,13 @@
 - 💻 I'm currently interning at NASA 🚀 Johnson Space Center.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
 - This Fall semester, I will be developing a new On-device LLM for NASA Hazard Engineering Team.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
+</p>
+<p align="center" style="font-size: 50/%; font-style: italic;">
+  Not exactly Neural Network, but it looks cool :D
+</p>
 
 ------
 **📧 Contact me**
