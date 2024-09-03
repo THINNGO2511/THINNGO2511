@@ -8,7 +8,7 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'm currently working on a new On-device LLM at NASA 🚀 Johnson Space Center.
+- 💻 I'm working on a new On-device LLM at NASA 🚀 Johnson Space Center.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
 
 <p align="center">
