@@ -8,9 +8,8 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'm currently interning at NASA 🚀 Johnson Space Center.
+- 💻 I'm currently interning at NASA 🚀 Johnson Space Center, working on a new On-device LLM for Hazard Engineering Team.
 - I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
-- This Fall semester, I will be developing a new On-device LLM for NASA Hazard Engineering Team.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
