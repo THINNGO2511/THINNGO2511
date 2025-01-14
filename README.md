@@ -3,20 +3,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Edward+;But+some+call+me+Thinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
 <!-- Dynamic message svg generated from git.io as found above-->
- <p>I am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
+ <p>i am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'll be a SWE Intern <a href="https://www.meta.com/">@meta</a> in Summer 2025.
-- I previously was 3x SWE Intern <a href="https://www.nasa.gov/johnson/">@NASA JSC</a>🚀. 
-- I also mentored with Apple 🍎 through the Pathways Alliance Program.
+- :seedling: i’m primarily interested in robotics and ai/ml.
+- 💻 will-be intern <a href="https://www.meta.com/">@meta</a> in summer 2025.
+- prev 3x swe intern <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
+- was <a href="https://developer.apple.com/pathways/">@apple pathways alliance</a>🍎.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
 </p>
 <p align="center" style="font-size: 50/%; font-style: italic;">
-  Not exactly Neural Network, but it looks cool :D
+  not exactly neural network, but it looks cool :D
 </p>
 
 ------
