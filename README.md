@@ -7,10 +7,10 @@
 
 <!-- TODO: Add last video link -->
 - currently <a href="https://uh.edu/">@uh</a> <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> cs senior 💻.
-- :seedling: i’m primarily interested in robotics and ai/ml.
 - will-be intern <a href="https://www.meta.com/">@meta</a> ♾️.
 - prev 3x swe intern <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
 - was <a href="https://developer.apple.com/pathways/">@apple pathways alliance</a> 🍎.
+- interested in robotics and ai/ml.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
