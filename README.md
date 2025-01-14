@@ -8,8 +8,9 @@
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m primarily interested in Robotics and AI/ML.
-- 💻 I'm working on a new On-device LLM at NASA 🚀 Johnson Space Center.
-- I'm also mentoring with Apple 🍎 through the Pathways Alliance Program.
+- 💻 I'll be a SWE Intern <a href="https://www.meta.com/">@meta</a> in Summer 2025.
+- I previously was 3x SWE Intern <a href="https://www.nasa.gov/johnson/">@NASA JSC</a>🚀. 
+- I also mentored with Apple 🍎 through the Pathways Alliance Program.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
