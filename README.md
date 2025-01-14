@@ -3,10 +3,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+I'm+Edward+;But+some+call+me+Thinh;I+love+cars+and+technology" alt="Typing SVG" /></h1>
 <!-- Dynamic message svg generated from git.io as found above-->
- <p>i am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>
+<!--<p>i am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>-->
 
 <!-- TODO: Add last video link -->
-
+- currently <a href="https://uh.edu/">@uh</a> <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> CS senior 💻.
 - :seedling: i’m primarily interested in robotics and ai/ml.
 - will-be intern <a href="https://www.meta.com/">@meta</a> ♾️.
 - prev 3x swe intern <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
