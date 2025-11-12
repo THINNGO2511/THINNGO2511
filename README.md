@@ -7,7 +7,7 @@
 
 <!-- TODO: Add last video link -->
 <!-- will-be intern <a href="https://www.meta.com/">@meta</a> ♾️.-->
-- currently <a href="https://uh.edu/"><img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> </a> cs senior 💻.
+- currently <a href="https://uh.edu/"><img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/></a> cs senior 💻.
 - prev swe intern <a href="https://www.facebook.com/">@meta</a> ⓕ and 3x <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
 - was <a href="https://developer.apple.com/pathways/">@apple pathways alliance</a> 🍎.
 - interested in robotics and ai/ml.
