@@ -6,11 +6,9 @@
 <!--<p>i am currently a <img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/> student pursuing Computer Science💻.</p>-->
 
 <!-- TODO: Add last video link -->
-<!-- will-be intern <a href="https://www.meta.com/">@meta</a> ♾️.-->
-- currently <a href="https://uh.edu/"><img src="https://github.com/DescendingMisery/DescendingMisery/blob/main/img/uh_red.png" width="15" height="15"/></a> cs senior 💻.
-- prev swe intern <a href="https://www.facebook.com/">@meta</a> ⓕ and 3x <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
-- was <a href="https://developer.apple.com/pathways/">@apple pathways alliance</a> 🍎.
-- interested in robotics and ai/ml.
+- currently working on applied ai <a href="https://www.meta.com/">@meta</a> ♾️.
+- prev swe intern 3x <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
+- interested in robotics, ml infra and gpu kernel.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
