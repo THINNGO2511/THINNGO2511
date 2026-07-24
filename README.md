@@ -10,12 +10,12 @@
 - prev swe intern 3x <a href="https://www.nasa.gov/johnson/">@nasa jsc</a>🚀. 
 - interested in robotics, ml infra and gpu kernel.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/3ffea0d4-aa12-4c43-93d2-95c934eeac70" alt="Particle Network">
 </p>
 <p align="center" style="font-size: 50/%; font-style: italic;">
   not exactly neural network, but it looks cool :D
-</p>
+</p> -->
 
 ------
 **📧 Contact me**
