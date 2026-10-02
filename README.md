@@ -24,9 +24,6 @@
 - Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
 
 <hr>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THINNGO2511&&theme=github-compact" alt="Prince Canuma's github activity graph"/>
-</p>
 <!-- <hr>
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align="center" width="28"><strong>Git Stats</strong></p>
 
