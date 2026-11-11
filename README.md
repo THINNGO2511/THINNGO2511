@@ -20,7 +20,7 @@
 **📧 Contact me**
 - Email: <a href="mailto:ngothinh2511@gmail.com">ngothinh2511@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ngothinh/">Link</a>
-- Website: <a href="https://thinngo2511.github.io/Personal_Portfolio"> Link</a>
+- Website: <a href="https://thinngo2511.github.io/"> Link</a>
 
 <hr>
 <!-- <hr>
